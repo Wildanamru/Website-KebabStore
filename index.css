@@ -1,0 +1,30 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+/*Navbar*/
+.navbar {
+	margin-top: -32px;
+}
+
+.navbar .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+	color: orange;
+}
+
+.navbar .navbar-brand  {
+	font-size: 20px;
+}
+
+.navbar div a img {
+    height: 65px;
+    width: 65px;
+}
