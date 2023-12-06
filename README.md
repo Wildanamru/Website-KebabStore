@@ -2,6 +2,8 @@
 
 Web sederhana list menu Kebab dengan CRUD database 
 
+alternative url : https://kebababadi.zerovoid.tech/index.php
+
 # Mockup
 
 ![alt text](https://github.com/Wildanamru/Website-KebabStore/blob/main/Interface.jpeg?raw=true)
