@@ -2,7 +2,7 @@
 
 Web sederhana list menu Kebab dengan CRUD database 
 
-alternative url : https://kebababadi.zerovoid.tech/index.php
+alternative url : [https://kebababadi.zerovoid.tech/index.php](http://kebababadi.evvtech.site/)
 
 # Mockup
 
